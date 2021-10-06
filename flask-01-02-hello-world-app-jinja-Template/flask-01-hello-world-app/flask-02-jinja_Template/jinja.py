@@ -14,6 +14,6 @@ def calculer():
     value3=num1*num2)
 
 if __name__=="__main__":
-    #app.run(host='0000',port=80)
-    app.run(debug=True)
+     app.run(host='0000',port=80)
+    #app.run(debug=True)
     
